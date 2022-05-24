@@ -1,5 +1,9 @@
-# FishNet-Examples
-Example project for Fish-Networking with Client Server Prediction using Starter Assets - Third Person Character Controller.
+Unity version used: 2022.1.1f1
+
+This is a simple project showing how to implement Client Prediction using FishNet (and Starter Assets - Third Person Character Controller).
+
+The goal here is to convert this sample project to Unity Netcode for Gameobjects.
+
 
 # Dependencies
 1. Fish-Networking (v1.4.7): https://github.com/FirstGearGames/FishNet.
